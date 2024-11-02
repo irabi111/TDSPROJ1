@@ -3,7 +3,7 @@ Data Scraping:
 * User data was retrieved from the GitHub API by applying filters for users located in Melbourne with a follower count exceeding 100, followed 
   by fetching most recently updated repositories.
   
-  Scrapping Link-https://github.com/irabi111/TDSPROJ1/blob/main/Data%20Scarpping.py
+  Scrapping code Link-https://github.com/irabi111/TDSPROJ1/blob/main/Data%20Scarpping.py
   
 Surprising fact:
 * High repository count doesn’t equal high followers; Quality, Relevance, and Networking impact follower growth significantly.
